@@ -1,0 +1,39 @@
+# movement
+jumpVelo 18.5
+permForce 150.0
+moveVelo 8.5
+wallBouncePercent 0.5
+slowDownMomentRate 0.1
+slowDownMomentRateAir 0.975
+speedUpMomentRate 0.25
+minMoveStick 0.015
+stamPermCooldown 1.0
+maxPermSpeed 35.0
+minGroundNormalY 0.65
+minHorizNormalX 0.65
+jumpGracePeriod 0.05
+
+# difficulty
+EasyMaxHealth 10
+EasyMaxStamina 5
+EasyTime 300
+NormalMaxHealth 8
+NormalMaxStamina 4
+NormalTime 240
+HardMaxHealth 6
+HardMaxStamina 3
+HardTime 180
+ImpossibleMaxHealth 0.1
+ImpossibleMaxStamina 2
+ImpossibleTime 120
+Practice_ModeMaxHealth 100000
+Practice_ModeMaxStamina 100000
+Practice_ModeTime 9999
+
+# UI Overlay
+minHealthAlpha .1
+healthDecay 5
+maxHealthOpacity .3
+minStaminaAlpha .1
+staminaDecay 5
+maxStaminaOpacity .2
